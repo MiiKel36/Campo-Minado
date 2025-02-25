@@ -28,7 +28,7 @@ namespace Campo_Minado
                 int choiceX = 0;
 
                 string errorMsg = "";
-                string strCampoMinado = objCampoMinado.printOnCosoleCampoMnadio(objCampoMinado.campoMinado, objCampoMinado.x);
+                string strCampoMinado = objCampoMinado.printOnCosoleCampoMinado(objCampoMinado.campoMinado, objCampoMinado.x);
 
                 bool isChoiceRigth;
 
