@@ -93,7 +93,7 @@ namespace Campo_Minado
         }
 
 
-        public string printOnCosoleCampoMnadio(List<List<Bloco>> campoMinado, int x)
+        public string printOnCosoleCampoMinado(List<List<Bloco>> campoMinado, int x)
         {
             string campos = "";
             string strCampoMinado = "";
