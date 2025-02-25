@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\bin\Debug\net7.0\Campo Minado.exe
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\obj\Debug\net7.0\Campo Minado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\obj\Debug\net7.0\Campo Minado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\obj\Debug\net7.0\Campo Minado.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\obj\Debug\net7.0\Campo Minado.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\obj\Debug\net7.0\Campo Minado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\obj\Debug\net7.0\Campo Minado.dll
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\obj\Debug\net7.0\refint\Campo Minado.dll
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\obj\Debug\net7.0\Campo Minado.pdb
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\bin\Debug\net7.0\Campo Minado.deps.json
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\bin\Debug\net7.0\Campo Minado.runtimeconfig.json
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\bin\Debug\net7.0\Campo Minado.dll
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\bin\Debug\net7.0\Campo Minado.pdb
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\obj\Debug\net7.0\Campo Minado.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Projetos de programação\Projetos c#\Campo Minado\Campo Minado\obj\Debug\net7.0\ref\Campo Minado.dll
