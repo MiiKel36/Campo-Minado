@@ -13,10 +13,6 @@ namespace Campo_Minado
         public bool isBomb;
         public bool isVisible = false;
 
-        public int countBombsArround()
-        {
-            return 0;
-        }
 
         public List<int[]> returnBoombsCoordinates(int numDeBombas, int x, int y)
         {
