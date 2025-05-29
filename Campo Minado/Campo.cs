@@ -158,7 +158,6 @@ namespace Campo_Minado
                 // Erro caso o bloco em volta ultrapasse os limites da List campoMinado
                 try
                 {
-
                     // Se o bloco atual já for visível, não irá fazer nada
                     if (!(campoMinado[coordeandaDeBlocosParaAbrir[0]][coordeandaDeBlocosParaAbrir[1]].isVisible))
                     {
@@ -167,7 +166,6 @@ namespace Campo_Minado
                         {
                             blocosAbertos.Add(coordeandaDeBlocosParaAbrir);
                             campoMinado[coordeandaDeBlocosParaAbrir[0]][coordeandaDeBlocosParaAbrir[1]].isVisible = true;
-
                         }
                         else
                         {
@@ -187,25 +185,15 @@ namespace Campo_Minado
                                 if (isNotCoordeandaInBlocosAberto)
                                 {
                                     blocosParaAbrir.Add(blocosAoLado);
-
                                 }
                             }
-
                         }
                         i++;
                     }
-
                 }
                 catch { i++; }
-
             }
-
             return campoMinado;
         }
-
-
-
-
-
     }
 }
